@@ -1,4 +1,4 @@
-WeatherApp to aplikacja desktopowa, która wykorzystuje API AccuWeather do wyświetlania aktualnych informacji pogodowych. 
+JavaAPIWeatherGUI to aplikacja desktopowa, która wykorzystuje API AccuWeather do wyświetlania aktualnych informacji pogodowych. 
 Użytkownik może wyszukać pogodę dla wybranej lokalizacji na dany dzień lub godzinę. Projekt jest napisany w Java z użyciem JavaFX jako interfejsu graficznego.
 
 ## Funkcje
